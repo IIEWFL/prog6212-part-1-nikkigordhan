@@ -12,3 +12,4 @@
    b. The Start Date of the Semester. eg: 19/09/2023</p> 
 <p> 3. The system should display a list of Modules with the self study hours. Self Study Hours ics calculated using the following forumula:</br>
    self-study hours per week= ((number of credits × 10) / number of weeks) − class hours per week</p>
+<p> 4. The user should be able t orecord the number of hours they spend working on a specific module on a certain date.</p>
