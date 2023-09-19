@@ -15,3 +15,16 @@
 <p> 4. The user should be able to record the number of hours they spend working on a specific module on a certain date.</p>
 <p> 5. The system shall display how many hours of self-study remain for each module for the current week. This should be calculated based on the number of hours already recorded on
 days during the current week.</p>
+
+<h4> How to run the application: </h4>
+<h5> For a developer: </h5>
+<p> Step 1: Open up the PROG_PoE_Part_1 file. </br>
+Step 2: Click on th file that ends with csproj. 
+Step 3: Use Visual Studio IDE to open up the project file. </br>
+The link is below: </br>
+https://github.com/IIEWFL/prog6221-part-1-nikkigordhan/blob/main/PROG_PoE_Part_1/PROG_PoE_Part_1.csproj </p>
+	
+<h5> For a regular user: </h5>
+Step 1: Open up the release file. </br>
+Step 2: Use the link to open up the file. </br> 
+https://github.com/IIEWFL/prog6221-part-1-nikkigordhan/blob/Part_1/PROG_PoE_Part_1/bin/Debug/PROG_PoE_Part_1.exe </p>
