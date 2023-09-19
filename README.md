@@ -7,6 +7,8 @@
    b. The Module Name. eg: Programming </br>
    c. The Number of Credits. eg: 15 </br>
    d. The Number of Hours spent in Class. eg: 3</p>
-<p>  2. Allowers the user to capture a Semester with the following information: </br>
+<p> 2. Allowers the user to capture a Semester with the following information: </br>
    a. The Number of weeks within the semester. eg: 12 </br>
    b. The Start Date of the Semester. eg: 19/09/2023</p> 
+<p> 3. The system should display a list of Modules with the self study hours.</br>
+   self-study hours per week= ((number of credits × 10) / number of weeks) − class hours per week</p>
