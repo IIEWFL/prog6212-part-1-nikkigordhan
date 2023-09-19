@@ -21,7 +21,6 @@ days during the current week.</p>
 <p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part1 folder </br>
 Step 2: Click on the solution file ST10108243_NikkiGordhan_PROG6212_PoE_Part1.sln. </br>
 Step 3: The project will open up in Visual Studio IDE, build and run the project. </br>
-The link is below: </br>
  </p>
 	
 <h5> For a regular user: </h5>
