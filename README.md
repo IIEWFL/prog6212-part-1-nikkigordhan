@@ -1,6 +1,6 @@
 <h1> PROG6212 PoE Part 1: Student Study Managent System</h1>
 <h2> Nikki Gordhan ST10108243 </h2>
-<h3> <b> Instructions on How to Run and Compile my PoE: </b> </h3>
+<h3>Instructions on How to Run and Compile my PoE:</h3>
 <h4> The application does the following:</h4>
 <h5> 1. Allowers the user to capture multiple Modules withe the following information:</h5>
   <h5> a. The Module Code. eg: PROG6212</h5>
