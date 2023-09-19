@@ -1,0 +1,12 @@
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\Calculate_Self_Study_Hours\bin\Debug\Calculate_Self_Study_Hours.dll
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\Calculate_Self_Study_Hours\bin\Debug\Calculate_Self_Study_Hours.pdb
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.csproj.AssemblyReference.cache
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.csproj.CoreCompileInputs.cache
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.dll
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.pdb
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\V1\Calculate_Self_Study_Hours\bin\Debug\Calculate_Self_Study_Hours.dll
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\V1\Calculate_Self_Study_Hours\bin\Debug\Calculate_Self_Study_Hours.pdb
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\V1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.csproj.AssemblyReference.cache
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\V1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.csproj.CoreCompileInputs.cache
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\V1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.dll
+C:\Varsity\2023\Semester 2\PROG6212\Part 1\V1\Calculate_Self_Study_Hours\obj\Debug\Calculate_Self_Study_Hours.pdb
