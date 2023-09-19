@@ -18,13 +18,13 @@ days during the current week.</p>
 
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
-<p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part1 file. </br>
-Step 2: Click on th file that ends with csproj. </br>
-Step 3: Use Visual Studio IDE to open up the project file. </br>
+<p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part1 folder </br>
+Step 2: Click on the solution file ST10108243_NikkiGordhan_PROG6212_PoE_Part1.sln. </br>
+Step 3: The project will open up in Visual Studio IDE, build and run the project. </br>
 The link is below: </br>
  </p>
 	
 <h5> For a regular user: </h5>
-Step 1: Open up the release file. </br>
-Step 2: Use the link to open up the file. </br> 
+Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part1/bin/release/net6.0-windows folder. </br>
+Step 2: Click on the file ST10108243_NikkiGordhan_PROG6212_PoE_Part1.exe to run the application. </br> 
  </p>
