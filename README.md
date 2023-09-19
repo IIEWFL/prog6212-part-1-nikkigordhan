@@ -19,7 +19,7 @@ days during the current week.</p>
 <h4> How to run the application: </h4>
 <h5> For a developer: </h5>
 <p> Step 1: Open up the ST10108243_NikkiGordhan_PROG6212_PoE_Part1 file. </br>
-Step 2: Click on th file that ends with csproj. 
+Step 2: Click on th file that ends with csproj. </br>
 Step 3: Use Visual Studio IDE to open up the project file. </br>
 The link is below: </br>
  </p>
